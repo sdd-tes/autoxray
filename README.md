@@ -24,8 +24,7 @@
 
 ## 使用说明
    ```bash
-   bash <(curl -Ls https://raw.githubusercontent.com/sdd-tes/autoxraybash/main/xray.sh)
-
+   bash <(curl -Ls https://raw.githubusercontent.com/sdd-tes/autoxray/main/xray.sh)
    ```
 
 根据菜单提示选择需要的功能，如安装节点、测速、生成链接等。
